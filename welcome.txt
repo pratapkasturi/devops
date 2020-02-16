@@ -1,4 +1,10 @@
 This is Demo file 
 We have created a local file.
+<<<<<<< HEAD
 Git is open source
 Git is more advanced tool.
+=======
+
+Hi 
+This is Pratap Kasturi.
+>>>>>>> 7d0840bb4e32d71ea4fff594084194466cab636d
