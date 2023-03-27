@@ -1,2 +1,6 @@
 this is my first file  in Azure DevOps
+<<<<<<< HEAD
 This is a second line added from the GitBash
+=======
+This Line is added from the GitHub
+>>>>>>> f1cc8a0b2959ab9a9ff6127e83b7adad671ca16a
